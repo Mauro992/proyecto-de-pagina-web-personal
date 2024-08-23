@@ -5,7 +5,7 @@ Este repositorio contiene una landing page realizada en HTML y CSS parte del cur
 
 Uso
 
-Clone el repositorio haciendo git clone https://github.com/digitalhouse-content/proyecto-final-maquetacion-web
+Clone el repositorio haciendo git clone https://github.com/Mauro992/proyecto-de-pagina-web-personal
 Abra el proyecto en su editor de código
 Haciendo click derecho ejecutar Live Server para abrir el proyecto en el navegador
 
