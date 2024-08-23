@@ -1,0 +1,48 @@
+h1{
+    color: rgb(38, 0, 255);
+    font-family: cursive;arial
+    text-align: center;
+    text-transform: uppercase;
+    width: 750px;
+    text-decoration: underline;
+    background-color: rgba(16, 214, 59, 0.521);
+    font-size: 50px;
+    font-style: oblique;
+}
+h2{
+   font-weight: bolder;
+    color: rgb(233, 212, 30);
+    width: 750px;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline;
+    background-color: rgba(74, 166, 189,0.4);
+    font-size: 25px;
+    font-style: italic;
+    border: 2px solid green;
+    margin: 2px;
+    padding: 2px;
+    box-sizing: border-box;
+}
+li{
+    color: rgb(51, 40, 40);
+    background-color: rgb(143, 110, 110);
+    width: 710px;
+    font-weight: bold;
+    font-style: normal;
+
+}
+p{
+    text-align: left;
+    width: 750px;
+    text-transform: capitalize;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: aqua;
+    font-style: oblique;
+}
+body{
+    background-color: black;
+}
